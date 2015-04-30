@@ -1,5 +1,5 @@
 # Simplistic
-Simplistic is a custom theme built off of Bootstrap.  
+Simplistic is a custom theme built off of [Bootstrap](http://getbootstrap.com/).  
 It is simply a simple theme, hence the name, Simplistic.  
 
 ## Details
