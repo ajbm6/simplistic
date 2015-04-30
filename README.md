@@ -7,5 +7,7 @@ It is simply a simple theme, hence the name, Simplistic.
 #### Bootstrap Version:  3.3.4
 
 ### Links
-[Download]()  
-[Element Helpers]()  
+[View Styles and Elements](https://savageboy74.tv/themes/simplistic)  
+[Full CSS](https://savageboy74.tv/download/themes/simplistic.css)  
+[Minified CSS](https://savageboy74.tv/download/themes/simplistic.min.css)  
+[Element Helper]()  
