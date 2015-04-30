@@ -7,5 +7,5 @@ It is simply a simple theme, hence the name, Simplistic.
 #### Bootstrap Version:  3.3.4
 
 ### Links
-[Download]() 
+[Download]()  
 [Element Helpers]()  
